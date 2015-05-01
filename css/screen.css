@@ -24,6 +24,8 @@ time, mark, audio, video {
 html {
 	background: url(../img/bg.jpg) center center no-repeat fixed;
 	background-size: cover;
+	min-height: 100%;
+	font-family:"Trebuchet MS", Verdana, Helvetica, Arial, sans-serif;
 }
 
 #info {
